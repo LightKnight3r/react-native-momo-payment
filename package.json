@@ -1,0 +1,37 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-momo-payment@1.0.0",
+        "scope": null,
+        "escapedName": "rreact-native-momo-payment",
+        "name": "react-native-momo-payment"
+      }
+    ]
+  ],
+  "_npmVersion": "4.0.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-momo-payment@^1.0.0",
+    "scope": null,
+    "escapedName": "react-native-momo-payment",
+    "name": "react-native-momo-payment"
+  },
+  "author": {
+    "name": "Minn",
+    "email": "minph1996@gmail.com"
+  },
+  "dependencies": {},
+  "description": "React Native module to connect momo",
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android"
+  ],
+  "main": "index.js",
+  "name": "react-native-momo-payment",
+  "scripts": {},
+  "version": "1.0.0"
+}
